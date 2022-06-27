@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Amber810.github.io</id>
+    <title>Amber的博客</title>
+    <updated>2022-06-27T11:16:15.470Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Amber810.github.io"/>
+    <link rel="self" href="https://Amber810.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Amber810.github.io/images/avatar.png</logo>
+    <icon>https://Amber810.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Amber的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[再见，手动收取蚂蚁森林能量]]></title>
+        <id>https://Amber810.github.io/post/zai-jian-shou-dong-shou-qu-ma-yi-sen-lin-neng-liang/</id>
+        <link href="https://Amber810.github.io/post/zai-jian-shou-dong-shou-qu-ma-yi-sen-lin-neng-liang/">
+        </link>
+        <updated>2021-12-16T11:44:01.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="蚂蚁森林自动收取脚本的背景">蚂蚁森林自动收取脚本的背景</h1>
+<blockquote>
+<p>蚂蚁森林收取的过程十分繁琐，故有极客开发了一键收取的脚本，非常人性化，本篇博客主要介绍如何使用和安装该脚本，让大家从此摆脱人工收取蚂蚁森林能量的步骤，达到偷懒的目的。</p>
+</blockquote>
+<p><a href="https://github.com/SuperMonster003/Ant-Forest">点我前往该脚本的github官方仓库</a></p>
+<h1 id="使用体验">使用体验</h1>
+<p>github仓库有详细教程，此处就不多赘述，使用了该脚本之后，再也不用早起提防好友偷取自己能量，同时自己也可以偷每一位好友的能量，从此收能量的快乐加倍。<br>
+<img src="https://s2.loli.net/2021/12/16/AagGSmUqr7CVfJ4.jpg" alt="蚂蚁森林图片" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始我的博客生涯]]></title>
+        <id>https://Amber810.github.io/post/kai-shi-wo-de-bo-ke-sheng-ya/</id>
+        <link href="https://Amber810.github.io/post/kai-shi-wo-de-bo-ke-sheng-ya/">
+        </link>
+        <updated>2021-12-14T14:30:09.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="大家好我是丁金辰欢迎访问我的博客">大家好，我是丁金辰，欢迎访问我的博客。</h2>
+<p><a href="https://github.com/Amber810">点此前往我的Github主页</a></p>
+<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2021/12/06/V8nmXM9EUbKpLAQ.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
